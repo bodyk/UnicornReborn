@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  unirocn:
+    image: unirocn
+    build:
+      context: ./Unirocn
+      dockerfile: Dockerfile
