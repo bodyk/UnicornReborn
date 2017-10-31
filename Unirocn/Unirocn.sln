@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{4E202E00-B1BD-4F62-9957-3C668B2F5129}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnicornClient", "UnicornClient\UnicornClient.csproj", "{75754137-9CB5-421B-995B-533DF9F9A1CE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unicorn", "Unicorn\Unicorn.csproj", "{F788154B-19CA-45C6-A1D4-C56AE50451A9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4E202E00-B1BD-4F62-9957-3C668B2F5129}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4E202E00-B1BD-4F62-9957-3C668B2F5129}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4E202E00-B1BD-4F62-9957-3C668B2F5129}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4E202E00-B1BD-4F62-9957-3C668B2F5129}.Release|Any CPU.Build.0 = Release|Any CPU
-		{75754137-9CB5-421B-995B-533DF9F9A1CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{75754137-9CB5-421B-995B-533DF9F9A1CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{75754137-9CB5-421B-995B-533DF9F9A1CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{75754137-9CB5-421B-995B-533DF9F9A1CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F788154B-19CA-45C6-A1D4-C56AE50451A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F788154B-19CA-45C6-A1D4-C56AE50451A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F788154B-19CA-45C6-A1D4-C56AE50451A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F788154B-19CA-45C6-A1D4-C56AE50451A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
